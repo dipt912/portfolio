@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.a96a8660.css",
   "main.css.map": "static/css/main.a96a8660.css.map",
-  "main.js": "static/js/main.d4f7f0a9.js",
-  "main.js.map": "static/js/main.d4f7f0a9.js.map",
+  "main.js": "static/js/main.ad2dd287.js",
+  "main.js.map": "static/js/main.ad2dd287.js.map",
   "static/media/Montserrat-Regular.otf": "static/media/Montserrat-Regular.91696e09.otf",
   "static/media/Roboto-Bold.woff": "static/media/Roboto-Bold.eed9aab5.woff",
   "static/media/Roboto-Bold.woff2": "static/media/Roboto-Bold.c0f1e4a4.woff2",
@@ -31,10 +31,10 @@
   "static/media/linkedin.jpg": "static/media/linkedin.f6eaf68b.jpg",
   "static/media/node_php.png": "static/media/node_php.9fec8901.png",
   "static/media/oop.png": "static/media/oop.6c1b20cd.png",
-  "static/media/portfolio.png": "static/media/portfolio.5934a4ac.png",
+  "static/media/portfolio.jpg": "static/media/portfolio.b7e1074d.jpg",
+  "static/media/portfolio.png": "static/media/portfolio.95918592.png",
   "static/media/react-logo.png": "static/media/react-logo.9978c2e2.png",
   "static/media/redux.png": "static/media/redux.26d55a43.png",
   "static/media/responsive-design.png": "static/media/responsive-design.e759a1e3.png",
-  "static/media/splash.png": "static/media/splash.a6e7a60c.png",
   "static/media/vs_code_npm_postman.png": "static/media/vs_code_npm_postman.0d4b0d27.png"
 }
