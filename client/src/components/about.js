@@ -1,10 +1,6 @@
 import React from 'react';
 
 import about from '../assets/images/about/creative.png';
-import lfzLogo from '../assets/images/about/lfz-logo.png';
-import calpolyLogo from '../assets/images/about/cp-logo.png';
-import kingstonLogo from '../assets/images/about/kingston-logo.png';
-
 
 export default props => {
 
