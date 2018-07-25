@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.a96a8660.css",
   "main.css.map": "static/css/main.a96a8660.css.map",
-  "main.js": "static/js/main.19cfbe0a.js",
-  "main.js.map": "static/js/main.19cfbe0a.js.map",
+  "main.js": "static/js/main.e81a2382.js",
+  "main.js.map": "static/js/main.e81a2382.js.map",
   "static/media/Montserrat-Regular.otf": "static/media/Montserrat-Regular.91696e09.otf",
   "static/media/Roboto-Bold.woff": "static/media/Roboto-Bold.eed9aab5.woff",
   "static/media/Roboto-Bold.woff2": "static/media/Roboto-Bold.c0f1e4a4.woff2",
@@ -28,6 +28,7 @@
   "static/media/jquery_ajax2.png": "static/media/jquery_ajax2.954678da.png",
   "static/media/linkedin.jpg": "static/media/linkedin.f6eaf68b.jpg",
   "static/media/node_php.png": "static/media/node_php.9fec8901.png",
+  "static/media/noteBook.jpg": "static/media/noteBook.3f2bcdc0.jpg",
   "static/media/oop.png": "static/media/oop.6c1b20cd.png",
   "static/media/portfolio.jpg": "static/media/portfolio.b7e1074d.jpg",
   "static/media/portfolio.png": "static/media/portfolio.95918592.png",
